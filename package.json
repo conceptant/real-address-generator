@@ -1,0 +1,25 @@
+{
+  "name": "real-address-generator",
+  "version": "1.0.0",
+  "description": "Real address generator.",
+  "main": "lib/real-address-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conceptant/real-address-generator.git"
+  },
+  "author": "Andrey Hvetskovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conceptant/real-address-generator/issues"
+  },
+  "homepage": "https://github.com/conceptant/real-address-generator#readme",
+  "dependencies": {
+    "node-geocoder": "^3.25.0",
+    "p-map": "^3.0.0",
+    "random-js": "^2.1.0",
+    "random-location": "^1.1.2"
+  }
+}
