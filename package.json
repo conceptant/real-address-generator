@@ -20,6 +20,6 @@
     "node-geocoder": "^3.25.0",
     "p-map": "^3.0.0",
     "random-js": "^2.1.0",
-    "random-location": "^1.1.2"
+    "random-location": "^1.1.3"
   }
 }
