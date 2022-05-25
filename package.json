@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/conceptant/real-address-generator#readme",
   "dependencies": {
-    "node-geocoder": "^3.27.0",
+    "node-geocoder": "^4.0.0",
     "p-map": "^4.0.0",
     "random-js": "^2.1.0",
     "random-location": "^1.1.3"
